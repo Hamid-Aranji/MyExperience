@@ -1,0 +1,336 @@
+--AG1_DropScript
+--DROP LOGIN [__tmp2_Adibian]
+--go
+--DROP LOGIN [_tmp_Navid]								
+--go
+--DROP LOGIN [A_GolMahalleh]							
+--go
+--DROP LOGIN [a_nourzadeh]							
+--go
+--DROP LOGIN [Agent]									
+--go
+--DROP LOGIN [alibaba\a.abolfazli]					
+--go
+--DROP LOGIN [alibaba\a.anvari]						
+--go
+--DROP LOGIN [alibaba\a.birang]						
+--go
+--DROP LOGIN [alibaba\a.ebtehaj]						
+--go
+--DROP LOGIN [alibaba\A.Havasi]						
+--go
+--DROP LOGIN [alibaba\a.khorasanchi]					
+--go
+													
+--go
+--DROP LOGIN [alibaba\a.nourzadeh]					
+--go
+--DROP LOGIN [ALIBABA\a.safinejad]					
+--go
+--DROP LOGIN [alibaba\a.sahebi]						
+--go
+--DROP LOGIN [ALIBABA\a.solhi]						
+--go
+					
+
+--DROP LOGIN [ALIBABA\ah.hosseini]					
+--go
+													
+--go
+--DROP LOGIN [alibaba\ar.hashemi]						
+--go
+--DROP LOGIN [alibaba\b.hatami]						
+--go
+--DROP LOGIN [alibaba\b.mohammadi]					
+--go
+--DROP LOGIN [alibaba\bi-sql$]						
+--go
+
+--DROP LOGIN [alibaba\e.arasteh]						
+--go
+--DROP LOGIN [alibaba\e.asadi]						
+--go
+--DROP LOGIN [alibaba\e.bahrani]						
+--go
+--DROP LOGIN [ALIBABA\e.ehsani]						
+--go
+
+--DROP LOGIN [alibaba\e.mirzarazi]					
+--go
+--DROP LOGIN [alibaba\e.mousavi]						
+--go
+--DROP LOGIN [alibaba\e.tabatabaei]					
+--go
+--DROP LOGIN [alibaba\el.abbasi]						
+--go
+--DROP LOGIN [alibaba\f.Ehsani]						
+--go
+--DROP LOGIN [alibaba\f.fattahi]						
+--go
+--DROP LOGIN [ALIBABA\f.jalilian]						
+--go
+--DROP LOGIN [alibaba\f.majidi]						
+--go
+--DROP LOGIN [ALIBABA\f.memariani]					
+--go
+--DROP LOGIN [ALIBABA\f.rajabpour]					
+--go
+--DROP LOGIN [ALIBABA\f.samadi]						
+--go
+--DROP LOGIN [alibaba\f.soltani]						
+--go
+--DROP LOGIN [alibaba\f.tamimi]						
+--go
+--DROP LOGIN [alibaba\f.valavi]						
+--go
+--DROP LOGIN [alibaba\h.abdolghafar]					
+----go
+--DROP LOGIN [alibaba\h.farrokh]						
+--go
+--DROP LOGIN [alibaba\h.ghaderipour]					
+--go
+--DROP LOGIN [alibaba\H.Heidari]						
+--go
+--DROP LOGIN [alibaba\h.mollaei]						
+--go
+--DROP LOGIN [ALIBABA\h.sadatipour]					
+--go
+--DROP LOGIN [alibaba\h.taammoli]						
+--go
+--DROP LOGIN [alibaba\h.vatankhah]					
+--go
+--DROP LOGIN [ALIBABA\h.vojdani]						
+--go
+--DROP LOGIN [alibaba\i.kazemi]						
+--go
+--DROP LOGIN [ALIBABA\j.amini]						
+--go
+--DROP LOGIN [ALIBABA\k.soleymanifard]				
+--go
+--DROP LOGIN [ALIBABA\Kh.Pakfar]						
+--go
+--DROP LOGIN [ALIBABA\M.Abbasian]						
+--go
+--DROP LOGIN [ALIBABA\m.abotalebi]					
+--go
+--DROP LOGIN [alibaba\M.ariapour]						
+--go
+--DROP LOGIN [ALIBABA\m.baratpour]					
+--go
+--DROP LOGIN [alibaba\M.Chenani]						
+--go
+--DROP LOGIN [alibaba\m.fallahi]						
+--go
+--DROP LOGIN [ALIBABA\m.farhadi]						
+--go
+--DROP LOGIN [alibaba\m.fathollahi]					
+--go
+--DROP LOGIN [alibaba\m.ghasemzadeh]					
+--go
+--DROP LOGIN [alibaba\M.Ghezelbash]					
+--go
+--DROP LOGIN [alibaba\m.hamdarsi]						
+--go
+--DROP LOGIN [ALIBABA\m.hasanpour]					
+--go
+--DROP LOGIN [alibaba\M.Hooshmand]					
+--go
+--DROP LOGIN [alibaba\M.Jamshidian]					
+--go
+--DROP LOGIN [ALIBABA\m.jashi]						
+--go
+--DROP LOGIN [alibaba\m.kazemzade]					
+--go
+--DROP LOGIN [alibaba\m.khademloo]					
+--go
+													
+--go
+--DROP LOGIN [ALIBABA\m.mazidi]						
+--go
+--DROP LOGIN [alibaba\m.mirzaie]						
+--go
+--DROP LOGIN [alibaba\m.moradi]						
+--go
+--DROP LOGIN [alibaba\M.MousaviNejad]					
+--go
+--DROP LOGIN [alibaba\m.nami]							
+--go
+--DROP LOGIN [alibaba\M.Naseri]						
+--go
+--DROP LOGIN [ALIBABA\m.rajabi]						
+--go
+--DROP LOGIN [ALIBABA\M.Senobari]						
+--go
+--DROP LOGIN [ALIBABA\m.shakiba]						
+--go
+--DROP LOGIN [ALIBABA\M.Sharifipoor]					
+--go
+--DROP LOGIN [ALIBABA\m.sojodi]						
+--go
+--DROP LOGIN [ALIBABA\M.Tabatabaei]					
+--go
+--DROP LOGIN [alibaba\m.taghipour]					
+--go
+--DROP LOGIN [ALIBABA\m.tajik]						
+--go
+--DROP LOGIN [alibaba\m.varmazyar]					
+--go
+--DROP LOGIN [alibaba\Ma.Falah]						
+--go
+--DROP LOGIN [ALIBABA\ma.keshavarz]					
+--go
+--DROP LOGIN [ALIBABA\ma.rasouli]						
+--go
+--DROP LOGIN [alibaba\ma.saberi]						
+--go
+--DROP LOGIN [ALIBABA\mh.khoshraftar]					
+--go
+--DROP LOGIN [ALIBABA\Mh.moradi]						
+--go
+--DROP LOGIN [ALIBABA\mr.ariyan]						
+--go
+--DROP LOGIN [ALIBABA\ms.hejini]						
+--go
+--DROP LOGIN [alibaba\n.ebrahimi]						
+--go
+--DROP LOGIN [ALIBABA\n.kabaran]						
+--go
+--DROP LOGIN [alibaba\n.nasirzadeh]					
+--go
+--DROP LOGIN [alibaba\N.Pirmoradian]					
+--go
+--DROP LOGIN [ALIBABA\n.safarinia]					
+--go
+--DROP LOGIN [alibaba\N.Shokri]						
+--go
+--DROP LOGIN [ALIBABA\ng.ebrahimi]					
+--go
+--DROP LOGIN [ALIBABA\o.nader]						
+--go
+--DROP LOGIN [ALIBABA\o.sadjadi]						
+--go
+--DROP LOGIN [alibaba\P.Amirnezhad]					
+--go
+--DROP LOGIN [alibaba\p.attaran]						
+--go
+--DROP LOGIN [alibaba\p.gilani]						
+--go
+--DROP LOGIN [ALIBABA\p.khavasi]						
+--go
+--DROP LOGIN [alibaba\P.Mardazad]						
+--go
+													
+--go
+--DROP LOGIN [alibaba\p.nikzad]						
+--go
+--DROP LOGIN [ALIBABA\p.yaghoubpour]					
+--go
+--DROP LOGIN [ALIBABA\PARS$]							
+--go
+--DROP LOGIN [alibaba\r.khalili]						
+--go
+--DROP LOGIN [ALIBABA\r.Mashhadiaghaie]				
+--go
+--DROP LOGIN [alibaba\r.miry]							
+--go
+--DROP LOGIN [ALIBABA\r.molaei]						
+--go
+--DROP LOGIN [alibaba\r.poordelan]					
+--go
+--DROP LOGIN [alibaba\s.abadi]						
+--go
+--DROP LOGIN [ALIBABA\s.alizadeh]						
+--go
+--DROP LOGIN [ALIBABA\S.Alvandi]						
+--go
+--DROP LOGIN [ALIBABA\S.Asadzadeh]					
+--go
+--DROP LOGIN [ALIBABA\s.azimi]						
+--go
+--DROP LOGIN [ALIBABA\s.balaghi]						
+--go
+--DROP LOGIN [alibaba\S.Ghadiri]						
+--go
+--DROP LOGIN [alibaba\s.hatami]						
+--go
+--DROP LOGIN [ALIBABA\S.Hosseynian]					
+--go
+--DROP LOGIN [alibaba\s.kermanian]					
+--go
+--DROP LOGIN [ALIBABA\s.rezaei]						
+--go
+--DROP LOGIN [ALIBABA\S.Shojaei]						
+--go
+--DROP LOGIN [ALIBABA\S.Tavakoli]						
+--go
+--DROP LOGIN [alibaba\sh.taheri]						
+--go
+--DROP LOGIN [ALIBABA\ss.salehi]						
+--go
+--DROP LOGIN [ALIBABA\t.saraie]						
+--go
+--DROP LOGIN [ALIBABA\y.ghafourian]					
+--go
+--DROP LOGIN [alibaba\y.mohammadjani]					
+--go
+--DROP LOGIN [alibaba\y.nazariani]					
+----go
+--DROP LOGIN [Bi_DBA]									
+--go
+--DROP LOGIN [e_ehsani]								
+--go
+--DROP LOGIN [elmah]									
+--go
+--DROP LOGIN [f_fattahi]								
+--go
+							
+--go
+--DROP LOGIN [farid]									
+--go
+--DROP LOGIN [k_soleymanifard]						
+--go
+--DROP LOGIN [LogUser]								
+--go
+--DROP LOGIN [m_abbasian]								
+--go
+--DROP LOGIN [m_mirzaie]								
+--go
+--DROP LOGIN [m_senobari]								
+--go
+--DROP LOGIN [M_Tabatabaei]							
+--go
+--DROP LOGIN [mr_ariyan]								
+--go
+--DROP LOGIN [r_poordelan]							
+--go
+--DROP LOGIN [S_Tavakoli]								
+--go
+--DROP LOGIN [tmp_user]								
+--go
+--DROP LOGIN [ZoraqBasicInformation]					
+--go
+--DROP LOGIN [ZoraqBasket]							
+--go
+--DROP LOGIN [ZoraqHangifire]							
+--go
+--DROP LOGIN [ZoraqIdentity]							
+--go
+--DROP LOGIN [ZoraqNotification]						
+--go
+--DROP LOGIN [ZoraqOrder]								
+--go
+--DROP LOGIN [ZoraqRefund]							
+--go
+--DROP LOGIN [ZoraqReportCenter]						
+--go
+--DROP LOGIN [ZoraqUFA]								
+--go
+--DROP LOGIN [ZoraqUPM]								
+--go
+
+
+DROP LOGIN [ALIBABA\E.Espootin]						
+GO
+
+DROP LOGIN [ALIBABA\i.esmaili]						
+go
